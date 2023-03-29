@@ -18,4 +18,5 @@
   <li>Fazer o reset do css por meio do "reset css cdn" no link cdnjs.cloudfare</li>
   <li>Inserir o style css por meio do comando "link:css".</li>
   <li>A tag span: pode ser utilizada para agrupar elementos para fins de estilo (usando os atributos class ou id ), ou para compartilhar valores de atributos como lang. Ela deve ser usado somente quando nenhum outro elemento semântico for apropriado. <span> é muito parecida com o elemento <div> , entretando <div> é um elemento de nível de bloco enquanto <span> é um elemento em linha. </li>
-  <li>
+  <li>Opções de fontes para estilização do projeto: font awesome cdn.</li>
+  <li>Opções de ícones para estilização do projeto: font awesome icons.</li>
