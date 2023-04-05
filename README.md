@@ -20,4 +20,6 @@
   <li>A tag span: pode ser utilizada para agrupar elementos para fins de estilo (usando os atributos class ou id ), ou para compartilhar valores de atributos como lang. Ela deve ser usado somente quando nenhum outro elemento semântico for apropriado. <span> é muito parecida com o elemento <div> , entretando <div> é um elemento de nível de bloco enquanto <span> é um elemento em linha. </li>
   <li>Opções de fontes para estilização do projeto: font awesome cdn.</li>
   <li>Opções de ícones para estilização do projeto: font awesome icons.</li>
-  <li>
+  <li>Inserir a tag script por meio do comando "script:src"</li>
+  <li>Manipular o conteúdo de um elemento HTML por meio de document.getElementById e innerHTML, eum uma função. Ex: const elementoMaiorValor = document.getElementById(‘maior-valor’) e elementoMaiorValor.innerHTML = maiorValor.</li>
+  <li>Utilizar  return parseInt(MAth.random() * maiorValor + 1) para incluir o número inteiro na geração de números aleatória.</li>
