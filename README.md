@@ -26,4 +26,6 @@
   <li>Utilizar  return parseInt(MAth.random() * maiorValor + 1) para incluir o número inteiro na geração de números aleatória.</li>
   <li>Utilizar a WEB Speeche API, que permite que incorporemos dados de voz em nossos aplicativos web, ou seja, existem duas funcionalidades muito importantes. Existe um que reconhece a fala, que é esse SpeechRecongnition, e tem um capaz de falar aquilo que está lendo, com base nos dados, que é esse SpeechSynthesis.</li>
   <li>Manipular os dados de voz reconhecidos por meio de eventos e funções.</li>
+  <li>
+  <li>
   <li>Como exibir o que foi falado na tela.</li>
