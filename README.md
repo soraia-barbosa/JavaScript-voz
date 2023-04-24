@@ -27,5 +27,7 @@
   <li>Utilizar a WEB Speeche API, que permite que incorporemos dados de voz em nossos aplicativos web, ou seja, existem duas funcionalidades muito importantes. Existe um que reconhece a fala, o SpeechRecongnition e  um capaz de falar aquilo que está lendo, com base nos dados, o SpeechSynthesis.</li>
   <li>Manipular os dados de voz reconhecidos por meio de eventos e funções.</li>
   <li>Como transcrever o que foi falado na tela.</li>
-  <li>
-  <li>
+  <li>Como validar os dados de entrada de áudio.</li>
+  <li>Criar uma tela de sucesso, caso o chute seja igual ao número secreto.</li>
+  <li>Adicionar informações caso o dado de entrada seja válido, porém, diferente do objetivo.</li>
+  
