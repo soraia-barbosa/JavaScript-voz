@@ -28,6 +28,6 @@
   <li>Manipular os dados de voz reconhecidos por meio de eventos e funções.</li>
   <li>Como transcrever o que foi falado na tela.</li>
   <li>Como validar os dados de entrada de áudio.</li>
-  <li>Criar uma tela de sucesso, caso o chute seja igual ao número secreto.</li>
+  <li>Criar uma tela de sucesso caso o chute seja igual ao número secreto.</li>
   <li>Adicionar informações caso o dado de entrada seja válido, porém, diferente do objetivo.</li>
   
