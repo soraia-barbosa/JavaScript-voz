@@ -29,5 +29,5 @@
   <li>Como transcrever o que foi falado na tela.</li>
   <li>Como validar os dados de entrada de áudio.</li>
   <li>Criar uma tela de sucesso caso o chute seja igual ao número secreto.</li>
-  <li>Adicionar informações caso o dado de entrada seja válido, porém, diferente do objetivo.</li>
+  <li>Adicionar informações caso o dado de entrada seja válid mas diferente do objetivo.</li>
   
