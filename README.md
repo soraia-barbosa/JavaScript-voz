@@ -30,4 +30,5 @@
   <li>Como validar os dados de entrada de áudio.</li>
   <li>Criar uma tela de sucesso caso o chute seja igual ao número secreto.</li>
   <li>Adicionar informações caso o dado de entrada seja válid mas diferente do objetivo.</li>
+  <li>Utilizar o método window.location.reload. Em JavaScript, "window" representa a janela aberta no navegador. Já "location", nessa linguagem, contém informações sobre a URL atual. Por último, "reload()" é usado para recarregar a página.
   
