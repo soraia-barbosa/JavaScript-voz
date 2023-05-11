@@ -11,7 +11,7 @@
    <h2>O Desafio</h2>
 <li>O objetivo é criar um jogo de adivinhação de um número secreto, em que, ao atualizar a página, o computador vai escolher um número secreto. Então, o usuário dá um chute, um palpite do que o computador escolheu. Se ele acertar, aparece uma mensagem para o usuário de que ele acertou. Se ele errar, aparece uma dica para que o usuário continue tentando.</li>
 
-   <h1>Meu processo</>
+   <h1>Meu processo</h1>
   <h2>Aprendizados</h2>
 
   <li>Criar arquivos no terminal utilizando os comandos Ctrl + J ou command + J.</li>
